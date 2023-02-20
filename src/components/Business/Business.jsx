@@ -1,6 +1,7 @@
 import { features } from "../../constants";
-import FeatureCard from "./FeatureCard";
 import styles, { layout } from "../../styles";
+
+import FeatureCard from "./FeatureCard";
 import Button from "../Button/Button";
 
 const Business = () => {

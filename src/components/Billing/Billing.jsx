@@ -1,5 +1,6 @@
 import { bill } from "../../assets";
 import styles, { layout } from "../../styles";
+
 import Gradient from "./Gradient";
 import Store from "./Store";
 

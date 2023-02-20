@@ -6,8 +6,8 @@ const Text = () => {
       <div className="flex flex-row justify-between items-center w-full">
         <h1 className="flex-1 text-white font-poppins font-semibold ss:text-6xl text-4xl ss:leading-[70px] leading-[44px]">
           The Next <br className="sm:block hidden" />
-          <span className="text-gradient"> Generation</span> {""}
-          Payment Method.
+          <span className="text-gradient">Generation</span> {""}
+          Payment Method
         </h1>
       </div>
 
